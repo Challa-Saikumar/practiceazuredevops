@@ -10,4 +10,3 @@ resource storage 'Microsoft.Storage/storageAccounts@2023-04-01' = {
     accessTier: 'Hot'
   }
 }
-
